@@ -1,3 +1,5 @@
-tile.tutorialmod_concrete.name=Concrete
 tile.tutorialmod_limestone.name=Limestone
-tile.tutorialmod_cement_bucket.name=Cement Bucket
+item.tutorialmod_clinker_mix.name=Clinker Mix
+tile.tutorialmod_clinker.name=Clinker
+item.tutorialmod_cement_mix.name=Cement Mix
+tile.tutorialmod_concrete.name=Concrete
